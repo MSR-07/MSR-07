@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Header](https://res.cloudinary.com/da3wjnlzg/image/upload/v1690096527/github-banner_mt2trc.png)
-<!--
+<!--![Header](https://res.cloudinary.com/da3wjnlzg/image/upload/v1690096527/github-banner_mt2trc.png)-->
+
 **MSR-07/MSR-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: In my free time, I enjoy working on personal coding projects, exploring new programming languages, and experimenting with emerging technologies. I'm also a big fan of outdoor adventures and have hiked in various national parks across the country.
--->
+
