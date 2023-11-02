@@ -51,7 +51,7 @@
   # Badges 
    [![An image of @msr07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/msr07)](https://holopin.io/@msr07)
 # 📊 GitHub Stats:
- ![](https://github-readme-streak-stats.herokuapp.com/?user=MSR-07&theme=dark&hide_border=false) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MSR-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=MSR-07&theme=dark&hide_border=false) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MSR-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--[![](https://visitcount.itsvg.in/api?id=tilakjain123&icon=0&color=6)](https://visitcount.itsvg.in)-->
 
